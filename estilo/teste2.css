@@ -1,0 +1,54 @@
+body {
+    font: normal 18pt arial;
+    background-image: linear-gradient(to bottom,orange, black, black, orange);
+    text-align: center;
+}
+
+header {
+    padding: 20px 0;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    font-style: italic;
+}
+header img {
+    width: 95px;
+    height: 55px;
+    padding: 18px 0;
+    margin-left: 20px;
+}
+
+section {
+    background-color: rgb(215, 173, 81);
+    margin: auto;
+    width: 95% ;
+    height: 90%;
+    border-radius: 50px;
+    box-shadow: 5px 5px 5px 5px white;
+    line-height: 40px;
+}
+
+div {
+    font: normal 22pt arial;
+    padding: 6px;
+}
+
+#msg {
+    font: normal 40px arial;
+    padding: 8px ;
+}
+
+
+img {
+    width: 95%;
+    height: 90%;
+    border-radius: 50px;
+    box-shadow: 7px 7px 7px 7px  black;
+}
+
+footer {
+    font-style: italic;
+    padding: 20px ;
+    color: white;
+}
+
